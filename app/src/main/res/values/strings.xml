@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">News</string>
+
+    // item tittles
+    <string name="news_item">News</string>
+    <string name="games_item">Games</string>
+    <string name="video_item">Video</string>
 </resources>
